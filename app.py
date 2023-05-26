@@ -20,7 +20,8 @@ def main():
     else :
         run_app_ml()
 
-    
+## 이게 무슨 뜻인지
+
 if __name__=='__main__':
     main()
 
