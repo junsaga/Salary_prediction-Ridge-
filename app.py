@@ -5,6 +5,7 @@ from app_home import run_app_home
 from app_eda import run_app_eda
 from app_ml import run_app_ml
 
+
 def main():
     
     st.title('자동차 가격 예측 앱')
