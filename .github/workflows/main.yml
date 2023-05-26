@@ -11,7 +11,7 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USER }}
           script: |
-            cd Github/car_price_dash_board/
+            cd Github/car_price_dash_board
                        
             git pull
   
