@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import LabelEncoder
 from sklearn.compose import ColumnTransformer
+import mglearn
 label_encoder = LabelEncoder()
 def run_app_eda():
     st.subheader('데이터 분석')
